@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Reply</string>
+    <string name="navigation_drawer">Боковое меню</string>
+    <string name="navigation_rail">Панель навигации</string>
+    <string name="navigation_bottom">Нижняя навигация</string>
+    <string name="navigation_back">Назад</string>
+    <string name="details_screen">Письмо</string>
+    <string name="tab_inbox">Входящие</string>
+    <string name="tab_sent">Отправленные</string>
+    <string name="tab_drafts">Черновики</string>
+    <string name="tab_spam">Спам</string>
+    <string name="logo">Логотип</string>
+
+    <string name="profile">Профиль</string>
+    <string name="reply">Ответить</string>
+    <string name="reply_all">Ответить всем</string>
+    <string name="continue_composing">Продолжить письмо</string>
+    <string name="delete">Удалить</string>
+    <string name="move_to_inbox">Во входящие</string>
+
+    <string name="account_4_first_name">Tracy</string>
+    <string name="account_4_last_name">Alvarez</string>
+    <string name="account_4_email">tracealvie@altostrat.com</string>
+
+    <string name="account_5_first_name">Allison</string>
+    <string name="account_5_last_name">Trabucco</string>
+    <string name="account_5_email">atrabucco222@altostrat.com</string>
+
+    <string name="account_6_first_name">Ali</string>
+    <string name="account_6_last_name">Connors</string>
+    <string name="account_6_email">aliconnors@altostrat.com</string>
+
+    <string name="account_7_first_name">Alberto</string>
+    <string name="account_7_last_name">Williams</string>
+    <string name="account_7_email">albertowilliams124@altostrat.com</string>
+
+    <string name="account_8_first_name">Kim</string>
+    <string name="account_8_last_name">Alen</string>
+    <string name="account_8_email">alen13@altostrat.com</string>
+
+    <string name="account_9_first_name">Google</string>
+    <string name="account_9_last_name">Express</string>
+    <string name="account_9_email">express@altostrat.com</string>
+
+    <string name="account_10_first_name">Sandra</string>
+    <string name="account_10_last_name">Adams</string>
+    <string name="account_10_email">sandraadams@altostrat.com</string>
+
+    <string name="account_11_first_name">Trevor</string>
+    <string name="account_11_last_name">Hansen</string>
+    <string name="account_11_email">trevorhandsen@altostrat.com</string>
+
+    <string name="account_12_first_name">Sean</string>
+    <string name="account_12_last_name">Holt</string>
+    <string name="account_12_email">sholt@altostrat.com</string>
+
+    <string name="account_13_first_name">Frank</string>
+    <string name="account_13_last_name">Hawkins</string>
+    <string name="account_13_email">fhawkank@altostrat.com</string>
+
+    <string name="email_0_subject">Посылка отправлена!</string>
+    <string name="email_0_body">Ваша посылка отправлена. Она должна прибыть между четвергом и вторником. Если доставка задержится, напишите нам. Спасибо за покупку!</string>
+    <string name="email_0_time">20 минут назад</string>
+
+    <string name="email_1_subject">Встретимся в выходные?</string>
+    <string name="email_1_body">В субботу буду рядом с твоим домом. Может, встретимся за чашкой кофе? Давно не виделись! Расскажу о последних новостях. Напиши, когда тебе будет удобно.</string>
+    <string name="email_1_time">1 час назад</string>
+
+    <string name="email_2_subject">Привет из Парижа</string>
+    <string name="email_2_body">Привет! Отправляю фотографии из Парижа. Здесь очень красиво. Скоро расскажу о поездке подробнее.</string>
+    <string name="email_2_time">1 час назад</string>
+
+    <string name="email_3_subject">Встреча выпускников</string>
+    <string name="email_3_body">Привет, друзья! Осенью состоится встреча выпускников. Поможете найти одноклассников и пригласить их? Будет приятно увидеть всех снова.</string>
+    <string name="email_3_time">1 час назад</string>
+
+    <string name="email_4_subject">Поездка в Бразилию</string>
+    <string name="email_4_body">Давай обсудим нашу поездку в Бразилию. Я нашёл несколько интересных мест на севере страны. Можно добавить их в маршрут и заранее выбрать жильё.</string>
+    <string name="email_4_time">1 час назад</string>
+
+    <string name="email_5_subject">Изменения в маршруте</string>
+    <string name="email_5_body">Мы обновили информацию о вашей поездке. Проверьте даты и время отправления. Желаем приятного путешествия!</string>
+    <string name="email_5_time">1 час назад</string>
+
+    <string name="email_6_subject">Попробуем новый рецепт</string>
+    <string name="email_6_body">Предлагаю приготовить малиновый пирог. Начинка делается быстро, а ягоды можно взять свежие или замороженные. Попробуем вечером?</string>
+    <string name="email_6_time">1 час назад</string>
+
+    <string name="email_7_subject">Доставлено</string>
+    <string name="email_7_body">Ваша обувь доставлена. Посылка ожидает вас дома. Спасибо за заказ!</string>
+    <string name="email_7_time">1 час назад</string>
+
+    <string name="email_8_subject">Обновление опубликовано</string>
+    <string name="email_8_body">Новая версия приложения опубликована и доступна участникам тестирования. Проверьте работу обновления и отправьте замечания.</string>
+    <string name="email_8_time">1 час назад</string>
+
+    <string name="email_9_subject">Без темы</string>
+    <string name="email_9_body">Привет! Хотел узнать твоё мнение о нашей идее. Давай обсудим подробности.</string>
+    <string name="email_9_time">1 час назад</string>
+
+    <string name="email_10_subject">Новые маршруты</string>
+    <string name="email_10_body">Откройте для себя пешеходные маршруты и прогулки на природе. Выберите подходящую длину и сложность.</string>
+    <string name="email_10_time">1 час назад</string>
+
+    <string name="email_11_subject">Ваш выигрыш</string>
+    <string name="email_11_body">Вы получили рекламное письмо о розыгрыше. Это демонстрационное содержимое папки «Спам».</string>
+    <string name="email_11_time">1 час назад</string>
+
+</resources>
